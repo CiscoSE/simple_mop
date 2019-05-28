@@ -1,4 +1,4 @@
-# simple_mop
+# Simple MOP Automation Example
 
 Simple example to automate MOP show commands
 
