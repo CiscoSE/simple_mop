@@ -62,7 +62,7 @@ The script will print the results in the console and print it into a file that e
 
 ## Installation
 
-The only dependency is paramiko. Works for python2 and python3
+The only dependency is netmiko. Works for python2 and python3
 ```bash
 pip install netmiko
 ```
