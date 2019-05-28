@@ -5,7 +5,7 @@ Simple example to automate MOP show commands
 
 ## Business/Technical Challenge
 
-Speed up the execution of show command across different devices
+Speed up the execution of show commands across different devices
 
 ## Proposed Solution
 
@@ -16,10 +16,6 @@ simple (very simple) MOP automation can be done. For complex MOPs, refer to
 
 
 ### Cisco Products Technologies/ Services
-
-Cisco XR
-
-Our solution will levegerage the following Cisco technologies
 
 * [Cisco XR](https://www.cisco.com/c/en/us/support/ios-nx-os-software/ios-xr-software/products-release-notes-list.html)
 * [Cisco NX](https://www.cisco.com/c/en/us/products/ios-nx-os-software/nx-os/index.html)
