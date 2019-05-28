@@ -1,0 +1,3 @@
+show ip interface br
+show ip route
+show run
